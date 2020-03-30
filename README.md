@@ -1,11 +1,9 @@
-## Flappy Bird
+## Flappy Bird IA
 
-![Alt text](http://i.imgur.com/CVAJc7b.png)
+![Alt text](resource/bird.gif)
 
 ## Usage
 
 ```
-git clone https://github.com/stronglink/FlappyBird.git
-cd FlappyBird
-./run
+Use netbenas to open the project
 ```
